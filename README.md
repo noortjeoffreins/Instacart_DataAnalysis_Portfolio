@@ -23,4 +23,4 @@ This project highlighted my ability to turn abstract customer data into actionab
 🔗 **Project delivarables**
 This repository includes a project folder that demonstrates my familiarity with standard work practices. It also contains a data insights & visualization sheet highlighting key findings. Lastly, I’ve provided a direct link to my Python notebook for easy access to the final achievements of this project. [Go to my Final Achievement Notebook](https://github.com/noortjeoffreins/Instacart_DataAnalysis_Portfolio/blob/main/Final%20Achievement%20Notebook.ipynb "Go to my Final Achievement Notebook")
 
-*Referencing data set: [View on Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis "View on Kaggle")
+*Referencing data set:* [View on Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis "View on Kaggle")
